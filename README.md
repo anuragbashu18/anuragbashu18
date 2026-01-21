@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**anuragbashu18/anuragbashu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Engineering Student
+🌱 Currently learning Cybersecurity fundamentals, Networking & Linux
+🛡️ Interested in ethical hacking, system security & threat analysis
+💻 Hands-on with programming, web development, and understanding how systems break & defend
+🎯 Goal: Become a skilled Cybersecurity Professional
+🧪 Learning through hands-on practice & small projects
+⚡ Fun fact: I prefer understanding fundamentals over memorizing tools
+📫 Reach me at: anu9608325648@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
