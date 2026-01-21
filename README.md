@@ -8,11 +8,3 @@
 🧪 Learning through hands-on practice & small projects
 ⚡ Fun fact: I prefer understanding fundamentals over memorizing tools
 📫 Reach me at: anu9608325648@gmail.com
-
-
-
-
-
-
-
-
