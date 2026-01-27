@@ -24,7 +24,15 @@
 
 ###
 
-<p align="left">🎓 3rd Year Computer Engineering Student<br>🌱 Currently learning Cybersecurity fundamentals, Networking & Linux<br>🛡️ Interested in ethical hacking, system security & threat analysis<br>💻 Hands-on with programming, web development, and understanding how systems break & defend<br>🎯 Goal: Become a skilled Cybersecurity Professional<br>🧪 Learning through hands-on practice & small projects<br>⚡ Fun fact: I prefer understanding fundamentals over memorizing tools<br>📫 Reach me at: anurag.bashu.official@gmail.com</p>
+<p align="left">🎓 3rd Year Computer Engineering Student  
+🌱 Currently building strong fundamentals in Cybersecurity & Networking  
+🛡️ Interested in SOC, system security, and threat detection  
+💻 Learning how systems work, fail, and how attacks are detected  
+🎯 Goal: Build a strong foundation and grow into a skilled Cybersecurity professional  
+🧪 Learning through hands-on practice, labs, and self-made notes  
+⚡ Believe in understanding fundamentals over memorizing tools  
+📫 Reach me at: anurag.bashu.official@gmail.com
+</p>
 
 ###
 
