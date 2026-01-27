@@ -24,15 +24,17 @@
 
 ###
 
-<p align="left">🎓 3rd Year Computer Engineering Student  
-🌱 Currently building strong fundamentals in Cybersecurity & Networking  
-🛡️ Interested in SOC, system security, and threat detection  
-💻 Learning how systems work, fail, and how attacks are detected  
-🎯 Goal: Build a strong foundation and grow into a skilled Cybersecurity professional  
-🧪 Learning through hands-on practice, labs, and self-made notes  
-⚡ Believe in understanding fundamentals over memorizing tools  
+<p align="left">
+🎓 3rd Year Computer Engineering Student<br>
+🌱 Currently building strong fundamentals in Cybersecurity & Networking<br>
+🛡️ Interested in SOC, system security, and threat detection<br>
+💻 Learning how systems work, fail, and how attacks are detected<br>
+🎯 Goal: Build a strong foundation and grow into a skilled Cybersecurity professional<br>
+🧪 Learning through hands-on practice, labs, and self-made notes<br>
+⚡ Believe in understanding fundamentals over memorizing tools<br>
 📫 Reach me at: anurag.bashu.official@gmail.com
 </p>
+
 
 ###
 
