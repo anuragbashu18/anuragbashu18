@@ -25,7 +25,7 @@
 ###
 
 <p align="left">
-🎓 3rd Year Computer Engineering Student<br>
+🎓 4th Year Computer Engineering Student<br>
 🌱 Currently building strong fundamentals in Cybersecurity & Networking<br>
 🛡️ Interested in SOC, system security, and threat detection<br>
 💻 Learning how systems work, fail, and how attacks are detected<br>
